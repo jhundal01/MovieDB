@@ -1,0 +1,404 @@
+{ 
+   "data":[{ 
+      "Response":"True",
+      "Error":"Movie not found!",
+      "Title":"Star Wars: Episode VIII - The Last Jedi",
+      "Year":"2017",
+      "Rated":"PG-13",
+      "Released":"15 Dec 2017",
+      "Runtime":"152 min",
+      "Genre":"Action, Adventure, Fantasy, Sci-Fi",
+      "Director":"Rian Johnson",
+      "Writer":"Rian Johnson, George Lucas (based on characters created by)",
+      "Actors":"Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley",
+      "Plot":"Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order.",
+      "Language":"English",
+      "Country":"USA",
+      "Awards":"Nominated for 4 Oscars. Another 12 wins & 71 nominations.",
+      "Poster":"https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SX300.jpg",
+      "Ratings":[ 
+         { 
+            "Source":"Internet Movie Database",
+            "Value":"7.1/10"
+         },
+         { 
+            "Source":"Rotten Tomatoes",
+            "Value":"91%"
+         },
+         { 
+            "Source":"Metacritic",
+            "Value":"85/100"
+         }
+      ],
+      "Metascore":"85",
+      "imdbRating":"7.1",
+      "imdbVotes":"481,503",
+      "imdbID":"tt2527336",
+      "Type":"movie",
+      "DVD":"27 Mar 2018",
+      "BoxOffice":"$619,117,636",
+      "Production":"Walt Disney Pictures",
+      "Website":"N/A"
+   },
+   { 
+      "Response":"True",
+      "Error":"Movie not found!",
+      "Title":"The Princess Diaries 2: Royal Engagement",
+      "Year":"2004",
+      "Rated":"G",
+      "Released":"11 Aug 2004",
+      "Runtime":"113 min",
+      "Genre":"Comedy, Family, Romance",
+      "Director":"Garry Marshall",
+      "Writer":"Meg Cabot (characters), Gina Wendkos (story), Shonda Rhimes (story), Shonda Rhimes (screenplay)",
+      "Actors":"Anne Hathaway, Julie Andrews, Hector Elizondo, John Rhys-Davies",
+      "Plot":"Now settled in Genovia, Princess Mia faces a new revelation: she is being primed for an arranged marriage to an English suitor.",
+      "Language":"English, Greek, French, Spanish",
+      "Country":"USA",
+      "Awards":"1 win & 2 nominations.",
+      "Poster":"https://m.media-amazon.com/images/M/MV5BODljNTU2ZGMtMWI5Yy00MGNkLTg2MTktN2NhZjY0NDcwMDhiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings":[ 
+         { 
+            "Source":"Internet Movie Database",
+            "Value":"5.8/10"
+         },
+         { 
+            "Source":"Rotten Tomatoes",
+            "Value":"25%"
+         },
+         { 
+            "Source":"Metacritic",
+            "Value":"43/100"
+         }
+      ],
+      "Metascore":"43",
+      "imdbRating":"5.8",
+      "imdbVotes":"69,271",
+      "imdbID":"tt0368933",
+      "Type":"movie",
+      "DVD":"14 Dec 2004",
+      "BoxOffice":"$95,111,012",
+      "Production":"Walt Disney Pictures [us]",
+      "Website":"N/A"
+   },
+{ 
+      "Response":"True",
+      "Error":"Movie not found!",
+      "Title":"Mad Max: Fury Road",
+      "Year":"2015",
+      "Rated":"R",
+      "Released":"15 May 2015",
+      "Runtime":"120 min",
+      "Genre":"Action, Adventure, Sci-Fi, Thriller",
+      "Director":"George Miller",
+      "Writer":"George Miller, Brendan McCarthy, Nick Lathouris",
+      "Actors":"Tom Hardy, Charlize Theron, Nicholas Hoult, Hugh Keays-Byrne",
+      "Plot":"In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.",
+      "Language":"English, Russian",
+      "Country":"Australia, USA, South Africa",
+      "Awards":"Won 6 Oscars. Another 232 wins & 219 nominations.",
+      "Poster":"https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings":[ 
+         { 
+            "Source":"Internet Movie Database",
+            "Value":"8.1/10"
+         },
+         { 
+            "Source":"Rotten Tomatoes",
+            "Value":"97%"
+         },
+         { 
+            "Source":"Metacritic",
+            "Value":"90/100"
+         }
+      ],
+      "Metascore":"90",
+      "imdbRating":"8.1",
+      "imdbVotes":"805,282",
+      "imdbID":"tt1392190",
+      "Type":"movie",
+      "DVD":"01 Sep 2015",
+      "BoxOffice":"$129,483,877",
+      "Production":"Warner Bros.",
+      "Website":"N/A"
+   },
+   { 
+      "Response":"True",
+      "Error":"Movie not found!",
+      "Title":"Fargo",
+      "Year":"1996",
+      "Rated":"R",
+      "Released":"05 Apr 1996",
+      "Runtime":"98 min",
+      "Genre":"Crime, Drama, Thriller",
+      "Director":"Joel Coen, Ethan Coen",
+      "Writer":"Ethan Coen, Joel Coen",
+      "Actors":"William H. Macy, Steve Buscemi, Peter Stormare, Kristin Rudrüd",
+      "Plot":"Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+      "Language":"English",
+      "Country":"USA, UK",
+      "Awards":"Won 2 Oscars. Another 79 wins & 59 nominations.",
+      "Poster":"https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings":[ 
+         { 
+            "Source":"Internet Movie Database",
+            "Value":"8.1/10"
+         },
+         { 
+            "Source":"Rotten Tomatoes",
+            "Value":"93%"
+         },
+         { 
+            "Source":"Metacritic",
+            "Value":"85/100"
+         }
+      ],
+      "Metascore":"85",
+      "imdbRating":"8.1",
+      "imdbVotes":"573,577",
+      "imdbID":"tt0116282",
+      "Type":"movie",
+      "DVD":"24 Jun 1997",
+      "BoxOffice":"N/A",
+      "Production":"MGM",
+      "Website":"N/A"
+   },
+{ 
+      "Response":"True",
+      "Error":"Movie not found!",
+      "Title":"Fast Color",
+      "Year":"2018",
+      "Rated":"PG-13",
+      "Released":"19 Apr 2019",
+      "Runtime":"100 min",
+      "Genre":"Drama, Sci-Fi, Thriller",
+      "Director":"Julia Hart",
+      "Writer":"Julia Hart, Jordan Horowitz",
+      "Actors":"Gugu Mbatha-Raw, David Strathairn, Lorraine Toussaint, Matthew Van Wettering",
+      "Plot":"A woman is forced to go on the run when her superhuman abilities are discovered. Years after having abandoned her family, the only place she has left to hide is home.",
+      "Language":"English",
+      "Country":"USA",
+      "Awards":"1 nomination.",
+      "Poster":"https://m.media-amazon.com/images/M/MV5BZjM0M2UxNWMtNzIzNi00NTZhLThiYTItNWFkNmVhNmE4YTlkXkEyXkFqcGdeQXVyMzAwMjMyMjY@._V1_SX300.jpg",
+      "Ratings":[ 
+         { 
+            "Source":"Internet Movie Database",
+            "Value":"5.8/10"
+         },
+         { 
+            "Source":"Rotten Tomatoes",
+            "Value":"82%"
+         },
+         { 
+            "Source":"Metacritic",
+            "Value":"64/100"
+         }
+      ],
+      "Metascore":"64",
+      "imdbRating":"5.8",
+      "imdbVotes":"1,769",
+      "imdbID":"tt6418778",
+      "Type":"movie",
+      "DVD":"16 Jul 2019",
+      "BoxOffice":"N/A",
+      "Production":"LD Entertainment",
+      "Website":"N/A"
+   },
+{ 
+      "Response":"True",
+      "Error":"Movie not found!",
+      "Title":"Captain America: The Winter Soldier",
+      "Year":"2014",
+      "Rated":"PG-13",
+      "Released":"04 Apr 2014",
+      "Runtime":"136 min",
+      "Genre":"Action, Adventure, Sci-Fi",
+      "Director":"Anthony Russo, Joe Russo",
+      "Writer":"Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Joe Simon (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by)",
+      "Actors":"Chris Evans, Samuel L. Jackson, Scarlett Johansson, Robert Redford",
+      "Plot":"As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.",
+      "Language":"English, French",
+      "Country":"USA",
+      "Awards":"Nominated for 1 Oscar. Another 5 wins & 50 nominations.",
+      "Poster":"https://m.media-amazon.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_SX300.jpg",
+      "Ratings":[ 
+         { 
+            "Source":"Internet Movie Database",
+            "Value":"7.7/10"
+         },
+         { 
+            "Source":"Rotten Tomatoes",
+            "Value":"90%"
+         },
+         { 
+            "Source":"Metacritic",
+            "Value":"70/100"
+         }
+      ],
+      "Metascore":"70",
+      "imdbRating":"7.7",
+      "imdbVotes":"685,521",
+      "imdbID":"tt1843866",
+      "Type":"movie",
+      "DVD":"09 Sep 2014",
+      "BoxOffice":"$228,636,083",
+      "Production":"Walt Disney Pictures",
+      "Website":"N/A"
+   },
+{ 
+      "Response":"True",
+      "Error":"Movie not found!",
+      "Title":"Zodiac",
+      "Year":"2007",
+      "Rated":"R",
+      "Released":"02 Mar 2007",
+      "Runtime":"157 min",
+      "Genre":"Crime, Drama, Mystery, Thriller",
+      "Director":"David Fincher",
+      "Writer":"James Vanderbilt (screenplay), Robert Graysmith (book)",
+      "Actors":"Jake Gyllenhaal, Mark Ruffalo, Anthony Edwards, Robert Downey Jr.",
+      "Plot":"In the late 1960s/early 1970s, a San Francisco cartoonist becomes an amateur detective obsessed with tracking down the Zodiac Killer, an unidentified individual who terrorizes Northern California with a killing spree.",
+      "Language":"English",
+      "Country":"USA",
+      "Awards":"2 wins & 67 nominations.",
+      "Poster":"https://m.media-amazon.com/images/M/MV5BN2UwNDc5NmEtNjVjZS00OTI5LWE5YjctMWM3ZjBiZGYwMGI2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings":[ 
+         { 
+            "Source":"Internet Movie Database",
+            "Value":"7.7/10"
+         },
+         { 
+            "Source":"Rotten Tomatoes",
+            "Value":"89%"
+         },
+         { 
+            "Source":"Metacritic",
+            "Value":"78/100"
+         }
+      ],
+      "Metascore":"78",
+      "imdbRating":"7.7",
+      "imdbVotes":"406,994",
+      "imdbID":"tt0443706",
+      "Type":"movie",
+      "DVD":"24 Jul 2007",
+      "BoxOffice":"$33,000,000",
+      "Production":"Paramount Pictures",
+      "Website":"N/A"
+   },
+{ 
+      "Response":"True",
+      "Error":"Movie not found!",
+      "Title":"Star Wars: Episode VI - Return of the Jedi",
+      "Year":"1983",
+      "Rated":"PG",
+      "Released":"25 May 1983",
+      "Runtime":"131 min",
+      "Genre":"Action, Adventure, Fantasy, Sci-Fi",
+      "Director":"Richard Marquand",
+      "Writer":"Lawrence Kasdan (screenplay by), George Lucas (screenplay by), George Lucas (story by)",
+      "Actors":"Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams",
+      "Plot":"After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap.",
+      "Language":"English",
+      "Country":"USA",
+      "Awards":"Nominated for 4 Oscars. Another 20 wins & 16 nominations.",
+      "Poster":"https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+      "Ratings":[ 
+         { 
+            "Source":"Internet Movie Database",
+            "Value":"8.3/10"
+         },
+         { 
+            "Source":"Rotten Tomatoes",
+            "Value":"81%"
+         },
+         { 
+            "Source":"Metacritic",
+            "Value":"58/100"
+         }
+      ],
+      "Metascore":"58",
+      "imdbRating":"8.3",
+      "imdbVotes":"880,601",
+      "imdbID":"tt0086190",
+      "Type":"movie",
+      "DVD":"12 Sep 2006",
+      "BoxOffice":"N/A",
+      "Production":"Twentieth Century Fox",
+      "Website":"N/A"
+   },
+{ 
+      "Response":"True",
+      "Error":"Movie not found!",
+      "Title":"Fast and Furious",
+      "Year":"1939",
+      "Rated":"Passed",
+      "Released":"06 Oct 1939",
+      "Runtime":"73 min",
+      "Genre":"Comedy, Crime, Musical, Mystery",
+      "Director":"Busby Berkeley",
+      "Writer":"Harry Kurnitz (original screen play)",
+      "Actors":"Franchot Tone, Ann Sothern, Ruth Hussey, Lee Bowman",
+      "Plot":"Rare book dealers Joel and Garda take a summertime jaunt to the seashore where he becomes involved in a beauty pageant as investor and judge much to her chagrin.",
+      "Language":"English",
+      "Country":"USA",
+      "Awards":"N/A",
+      "Poster":"https://m.media-amazon.com/images/M/MV5BMjAyNTQ1NjA3Ml5BMl5BanBnXkFtZTgwOTIyNjIxMzE@._V1_SX300.jpg",
+      "Ratings":[ 
+         { 
+            "Source":"Internet Movie Database",
+            "Value":"6.2/10"
+         }
+      ],
+      "Metascore":"N/A",
+      "imdbRating":"6.2",
+      "imdbVotes":"604",
+      "imdbID":"tt0031298",
+      "Type":"movie",
+      "DVD":"N/A",
+      "BoxOffice":"N/A",
+      "Production":"N/A",
+      "Website":"N/A"
+   },
+{ 
+      "Response":"True",
+      "Error":"Movie not found!",
+      "Title":"Fast Five",
+      "Year":"2011",
+      "Rated":"PG-13",
+      "Released":"29 Apr 2011",
+      "Runtime":"130 min",
+      "Genre":"Action, Adventure, Thriller",
+      "Director":"Justin Lin",
+      "Writer":"Chris Morgan, Gary Scott Thompson (characters)",
+      "Actors":"Vin Diesel, Paul Walker, Jordana Brewster, Tyrese Gibson",
+      "Plot":"Dominic Toretto and his crew of street racers plan a massive heist to buy their freedom while in the sights of a powerful Brazilian drug lord and a dangerous federal agent.",
+      "Language":"English, Portuguese, Spanish, Italian, French",
+      "Country":"USA, Brazil, Japan",
+      "Awards":"9 wins & 21 nominations.",
+      "Poster":"https://m.media-amazon.com/images/M/MV5BMTUxNTk5MTE0OF5BMl5BanBnXkFtZTcwMjA2NzY3NA@@._V1_SX300.jpg",
+      "Ratings":[ 
+         { 
+            "Source":"Internet Movie Database",
+            "Value":"7.3/10"
+         },
+         { 
+            "Source":"Rotten Tomatoes",
+            "Value":"77%"
+         },
+         { 
+            "Source":"Metacritic",
+            "Value":"66/100"
+         }
+      ],
+      "Metascore":"66",
+      "imdbRating":"7.3",
+      "imdbVotes":"336,044",
+      "imdbID":"tt1596343",
+      "Type":"movie",
+      "DVD":"04 Oct 2011",
+      "BoxOffice":"$209,805,005",
+      "Production":"Universal Pictures",
+      "Website":"N/A"
+   }
+]}
